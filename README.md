@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ana Beatriz and I'm 21 years old.
+- 👋 Hi, I’m Ana Beatriz and I'm 22 years old.
 - 💻 I am a systems development technician
 - 🤓 Currently studying systems analysis and development at São Paulo Tech School
 - 💞️ I'm passionate about programming and volleyball🏐
